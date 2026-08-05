@@ -1,0 +1,5 @@
+streamlit
+nltk
+psycopg2
+groq
+pymongo
